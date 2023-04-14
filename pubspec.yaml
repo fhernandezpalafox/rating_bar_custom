@@ -1,0 +1,23 @@
+name: rating_bar_custom
+description: Un paquete Flutter para mostrar una barra de calificación personalizada.
+version: 0.0.3
+homepage: https://github.com/fhernandezpalafox/rating_bar_custom
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
